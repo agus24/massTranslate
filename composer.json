@@ -1,0 +1,12 @@
+{
+    "name": "gustiawan/google-translate",
+    "authors": [
+        {
+            "name": "agus24",
+            "email": "agusx244@gmail.com"
+        }
+    ],
+    "require": {
+        "stichoza/google-translate-php": "^3.2"
+    }
+}
