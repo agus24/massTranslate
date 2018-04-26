@@ -7,7 +7,7 @@ $kata = json_decode(file_get_contents("kata.json"),true);
 
 use Stichoza\GoogleTranslate\TranslateClient;
 
-$tr = new TranslateClient('id', 'su');
+$tr = new TranslateClient('id', 'jw');
 
 $myfile = fopen("output.json", "rw");
 $output = [];
